@@ -1,0 +1,7 @@
+D:\вуз\ТеорВероят\лаба 1\GeomRaspred\GeomRaspred\bin\Debug\GeomRaspred.exe.config
+D:\вуз\ТеорВероят\лаба 1\GeomRaspred\GeomRaspred\bin\Debug\GeomRaspred.exe
+D:\вуз\ТеорВероят\лаба 1\GeomRaspred\GeomRaspred\bin\Debug\GeomRaspred.pdb
+D:\вуз\ТеорВероят\лаба 1\GeomRaspred\GeomRaspred\obj\Debug\GeomRaspred.csprojAssemblyReference.cache
+D:\вуз\ТеорВероят\лаба 1\GeomRaspred\GeomRaspred\obj\Debug\GeomRaspred.csproj.CoreCompileInputs.cache
+D:\вуз\ТеорВероят\лаба 1\GeomRaspred\GeomRaspred\obj\Debug\GeomRaspred.exe
+D:\вуз\ТеорВероят\лаба 1\GeomRaspred\GeomRaspred\obj\Debug\GeomRaspred.pdb
